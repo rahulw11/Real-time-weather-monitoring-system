@@ -126,4 +126,5 @@ Future Enhancements:
 
 
 ![weather](https://github.com/user-attachments/assets/201ec5a5-9452-40bd-b00b-d93c3a867836)
-![weather2](https://github.com/user-attachments/assets/f514b0f7-fb9f-4e2f-8bc0-3e1699792cfd)
+![weather3](https://github.com/user-attachments/assets/7fb5dbc0-6e2a-4872-a256-eebc190d8634)
+
