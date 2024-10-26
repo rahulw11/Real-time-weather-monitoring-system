@@ -123,3 +123,7 @@ Future Enhancements:
     Extend to additional weather parameters, such as pressure, visibility.
     Implement email notifications for alerts.
     Add visualization for daily summaries and alert history.
+
+
+![weather](https://github.com/user-attachments/assets/201ec5a5-9452-40bd-b00b-d93c3a867836)
+![weather2](https://github.com/user-attachments/assets/f514b0f7-fb9f-4e2f-8bc0-3e1699792cfd)
